@@ -55,7 +55,7 @@
             <id>whatever</id>
             <name>whatever</name>
             <url>
-                http://maven.wso2.org/nexus/content/repositories/orgwso2carbon-020/
+                http://maven.wso2.org/nexus/content/repositories/staging/
             </url>
             <releases>
                 <enabled>true</enabled>
